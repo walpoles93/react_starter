@@ -8,4 +8,4 @@ Server serves on http://localhost:1234
 
 ## Info
 
-Basic react boilerplate with React Router and Styled Compenents installed. Compiled with Parcel bundler.
+Basic react boilerplate with React Router, Styled Compenents and Prop Types installed. Uses airbnb eslint config. Compiled with Parcel bundler.
